@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+}
+
+td {
+    height: 80px;
+}
+
+tr:hover td {
+    background-color: #edf0f3; /* or #000 */
+}
